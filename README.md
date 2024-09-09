@@ -1,5 +1,5 @@
 ## Hi there 👋
-May name is Helenice
+Meu nome é Helenice
 
 Estou estudando no Alura.
 
